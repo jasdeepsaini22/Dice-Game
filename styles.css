@@ -1,0 +1,78 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #171717;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Merienda One', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 7rem;
+  color: #FFAC41;
+}
+
+p {
+  font-size: 2rem;
+  color: #EDEDED;
+  font-family: 'Architects Daughter', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+.refresh{
+  margin-top: 4%;
+}
+
+.btn-1 {
+  background: #FFAC41;
+  background-image: -webkit-linear-gradient(top, #FFAC41, #FFAC41);
+  background-image: -moz-linear-gradient(top, #FFAC41, #FFAC41);
+  background-image: -ms-linear-gradient(top, #FFAC41, #FFAC41);
+  background-image: -o-linear-gradient(top, #FFAC41, #FFAC41);
+  background-image: linear-gradient(to bottom, #FFAC41, #FFAC41);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #171717;
+  font-size: 24px;
+  padding: 20px 28px 20px 28px;
+  text-decoration: none;
+}
+
+.btn-1:hover {
+  background: #9c000d;
+  background-image: -webkit-linear-gradient(top, #9c000d, #9c000d);
+  background-image: -moz-linear-gradient(top, #9c000d, #9c000d);
+  background-image: -ms-linear-gradient(top, #9c000d, #9c000d);
+  background-image: -o-linear-gradient(top, #9c000d, #9c000d);
+  background-image: linear-gradient(to bottom, #9c000d, #9c000d);
+  color: #EDEDED;
+  text-decoration: none;
+}
+
+footer {
+  margin-top: 7%;
+
+  text-align: center;
+    font-family: 'Architects Daughter', cursive;
+  font-size: 2rem;
+}
+
+a:link {
+			text-decoration: underline;
+
+	}
